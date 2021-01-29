@@ -1,0 +1,20 @@
+.statisticsBox {
+    display: flex;
+    flex-direction: column;
+    padding: calc(66px - 1.5em) 20%;
+    flex-grow: 1;
+}
+
+.title {
+    font-size: 1.5em;
+}
+
+.statistics {
+    flex-grow: 1;
+    padding-top: 1em;
+
+}
+
+select {
+    width: 100%;
+}

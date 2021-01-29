@@ -1,0 +1,23 @@
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.footerItems {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    text-decoration: none;
+    color: #b8b7ad;
+    width: 100%;
+    height: 12.5vh;
+    padding-left: 20%;
+    font-family: 'Montserrat';
+}
+
+.linkInfo {
+    font-size: 1vw;
+    margin-left: 20px;
+}

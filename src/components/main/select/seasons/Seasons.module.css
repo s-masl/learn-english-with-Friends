@@ -1,0 +1,17 @@
+.list {
+    display: grid;
+    height: 100%;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+}
+
+.season {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+}
+
+.season a {
+    text-decoration: none;
+}

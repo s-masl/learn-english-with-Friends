@@ -1,0 +1,44 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.titleBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+.wordBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.translateBox {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.translate {
+    transition: 500ms;
+}
+
+.translateButtonBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    transition: 500ms;
+}
+
+.translateButton {
+    font-family: "Montserrat";
+    height: 50%;
+    width: 50%;
+}

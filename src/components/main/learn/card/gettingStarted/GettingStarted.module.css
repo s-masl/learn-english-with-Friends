@@ -1,0 +1,53 @@
+.gettingStarted {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.description div {
+    margin-bottom: 5px;
+}
+
+.howItWorks {
+
+}
+
+.howItWorksHeader {
+    padding-left: 15px;
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.arrows {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.instruction {
+    padding: 15px;
+    text-align: center;
+}
+
+.arrow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leftArrow {
+    width: 50%;
+    flex-direction: column;
+}
+
+.rightArrow {
+    width: 50%;
+    flex-direction: column;
+}
+
