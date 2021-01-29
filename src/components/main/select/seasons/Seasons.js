@@ -20,7 +20,7 @@ class Seasons extends React.Component {
         })
         return <div className={styles.list}>
             <div className={styles.season}>
-                <Link to="/learn-english-with-Friends/select/seasons/episodes">
+                <Link to="/learn-english-with-friends/select/seasons/episodes">
                     <Button disabled={false} onClick={() => this.setSeason(1)}> Season {1}</Button>
                 </Link>
             </div>

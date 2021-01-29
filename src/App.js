@@ -13,11 +13,11 @@ function App() {
         <Sidebar/>
         <main className={styles.main}>
             <Switch>
-                <Route path="/learn-english-with-Friends/learn" component={LearnContainer}/>
-                <Route exact path="/learn-english-with-Friends/select/seasons" component={SeasonsContainer}/>
-                <Route exact path="/learn-english-with-Friends/select/seasons/episodes" component={EpisodesContainer}/>
-                <Route path="/learn-english-with-Friends/statistics" component={StatisticsContainer}/>
-                <Route path="/learn-english-with-Friends/settings" component={SettingsContainer}/>
+                <Route path="/learn-english-with-friends/learn" component={LearnContainer}/>
+                <Route exact path="/learn-english-with-friends/select/seasons" component={SeasonsContainer}/>
+                <Route exact path="/learn-english-with-friends/select/seasons/episodes" component={EpisodesContainer}/>
+                <Route path="/learn-english-with-friends/statistics" component={StatisticsContainer}/>
+                <Route path="/learn-english-with-friends/settings" component={SettingsContainer}/>
             </Switch>
         </main>
     </div>
