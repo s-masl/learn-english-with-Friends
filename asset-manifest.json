@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/learn-english-with-friends/learn/static/css/main.34e0b320.chunk.css",
+    "main.js": "/learn-english-with-friends/learn/static/js/main.793f2293.chunk.js",
+    "main.js.map": "/learn-english-with-friends/learn/static/js/main.793f2293.chunk.js.map",
+    "runtime-main.js": "/learn-english-with-friends/learn/static/js/runtime-main.4f4d23da.js",
+    "runtime-main.js.map": "/learn-english-with-friends/learn/static/js/runtime-main.4f4d23da.js.map",
+    "static/js/2.69d1f439.chunk.js": "/learn-english-with-friends/learn/static/js/2.69d1f439.chunk.js",
+    "static/js/2.69d1f439.chunk.js.map": "/learn-english-with-friends/learn/static/js/2.69d1f439.chunk.js.map",
+    "index.html": "/learn-english-with-friends/learn/index.html",
+    "static/css/main.34e0b320.chunk.css.map": "/learn-english-with-friends/learn/static/css/main.34e0b320.chunk.css.map",
+    "static/js/2.69d1f439.chunk.js.LICENSE.txt": "/learn-english-with-friends/learn/static/js/2.69d1f439.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4d23da.js",
+    "static/js/2.69d1f439.chunk.js",
+    "static/css/main.34e0b320.chunk.css",
+    "static/js/main.793f2293.chunk.js"
+  ]
+}
