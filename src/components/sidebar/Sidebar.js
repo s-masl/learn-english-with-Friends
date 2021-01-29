@@ -32,7 +32,7 @@ class Sidebar extends React.Component {
                     <Button onClick={() => {
                         this.closeMenu()
                     }}>
-                        <Link to="/learn-english-with-friends/learn" className={styles.footerItems}>
+                        <Link to="/learn-english-with-friends/" className={styles.footerItems}>
                             <GoBook/>
                             <div className={styles.linkInfo}>Learn</div>
                         </Link>
