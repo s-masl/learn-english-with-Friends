@@ -34,8 +34,7 @@ const initialLearn = {
                 ["hanger", "[ˈhæŋə]", "вешалка"],
                 ["horny", "[ˈhɔːni]", "возбужденный, сексуально озабоченный"],
                 ["hump", "[hʌmp]", "горб"],
-                ["jimmies", "[ˈʤɪmiz]", "кондитерская обсыпка"],
-                ["learn", "[transcription]", "translate"],
+                ["jimmies", "[ˈʤɪmiz]", "кондитерская обсыпка"]
             ],
             episode2: [],
             episode3: [],
