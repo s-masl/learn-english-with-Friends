@@ -32,7 +32,7 @@ class Sidebar extends React.Component {
                     <Button onClick={() => {
                         this.closeMenu()
                     }}>
-                        <Link to="/learn-english-with-friends/" className={styles.footerItems}>
+                        <Link to="/learn" className={styles.footerItems}>
                             <GoBook/>
                             <div className={styles.linkInfo}>Learn</div>
                         </Link>
@@ -41,7 +41,7 @@ class Sidebar extends React.Component {
                     <Button onClick={() => {
                         this.closeMenu()
                     }}>
-                        <Link to="/learn-english-with-friends/select/seasons" className={styles.footerItems}>
+                        <Link to="/select/seasons" className={styles.footerItems}>
                             <GoListUnordered/>
                             <div className={styles.linkInfo}>Select</div>
                         </Link>
@@ -50,7 +50,7 @@ class Sidebar extends React.Component {
                     <Button onClick={() => {
                         this.closeMenu()
                     }}>
-                        <Link to="/learn-english-with-friends/statistics" className={styles.footerItems}>
+                        <Link to="/statistics" className={styles.footerItems}>
                             <GoGraph/>
                             <div className={styles.linkInfo}>Statistics</div>
                         </Link>
@@ -59,7 +59,7 @@ class Sidebar extends React.Component {
                     <Button onClick={() => {
                         this.closeMenu()
                     }}>
-                        <Link to="/learn-english-with-friends/settings" className={styles.footerItems}>
+                        <Link to="/settings" className={styles.footerItems}>
                             <GoGear/>
                             <div className={styles.linkInfo}>Settings</div>
                         </Link>

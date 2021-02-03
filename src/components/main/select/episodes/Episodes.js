@@ -20,7 +20,7 @@ class Episodes extends React.Component {
 
         return <div className={styles.list}>
             <div className={styles.episode}>
-                <Link to="/learn-english-with-friends/">
+                <Link to="/learn">
                     <Button disabled={false} onClick={() => this.setEpisode(1)}> Episode {1}</Button>
                 </Link>
             </div>
