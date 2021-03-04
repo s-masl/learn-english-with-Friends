@@ -1,4 +1,4 @@
-<h2> learn-english-with-friends </h2>
+<h2> learn-english-with-friends : https://s-masl.github.io/learn-english-with-friends/#/</h2>
 
 This application will help you learn new words and consolidate them by watching Friends.
 ***
