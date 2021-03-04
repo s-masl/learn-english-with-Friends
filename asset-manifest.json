@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/learn-english-with-friends/static/css/main.d9fddf0f.chunk.css",
-    "main.js": "/learn-english-with-friends/static/js/main.1cbbe755.chunk.js",
-    "main.js.map": "/learn-english-with-friends/static/js/main.1cbbe755.chunk.js.map",
+    "main.js": "/learn-english-with-friends/static/js/main.c8b1043d.chunk.js",
+    "main.js.map": "/learn-english-with-friends/static/js/main.c8b1043d.chunk.js.map",
     "runtime-main.js": "/learn-english-with-friends/static/js/runtime-main.ab7c01fc.js",
     "runtime-main.js.map": "/learn-english-with-friends/static/js/runtime-main.ab7c01fc.js.map",
     "static/js/2.6c0fbe68.chunk.js": "/learn-english-with-friends/static/js/2.6c0fbe68.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ab7c01fc.js",
     "static/js/2.6c0fbe68.chunk.js",
     "static/css/main.d9fddf0f.chunk.css",
-    "static/js/main.1cbbe755.chunk.js"
+    "static/js/main.c8b1043d.chunk.js"
   ]
 }
