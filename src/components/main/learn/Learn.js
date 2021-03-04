@@ -15,8 +15,7 @@ function Learn(props) {
         ({down, direction: [xDir], velocity, movement}) => {
             const trigger = velocity > 0.4;
             const dir = xDir < 0 ? -1 : 1;
-
-            if (!down && trigger) {
+            if (!down && (trigger || (Math.abs(movement[0]) > 50))) {
                 set({xy: [(2 * window.innerWidth) * dir, 0], config})
                 setTimeout(() => set({xy: [0, -(2 * window.innerHeight)], config: {duration: 1}}), 200)
                 setTimeout(() => {
