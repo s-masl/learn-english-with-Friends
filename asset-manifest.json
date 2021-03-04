@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/learn-english-with-friends/static/css/main.e2ba2a74.chunk.css",
-    "main.js": "/learn-english-with-friends/static/js/main.5ca6a8c6.chunk.js",
-    "main.js.map": "/learn-english-with-friends/static/js/main.5ca6a8c6.chunk.js.map",
+    "main.css": "/learn-english-with-friends/static/css/main.d9fddf0f.chunk.css",
+    "main.js": "/learn-english-with-friends/static/js/main.1cbbe755.chunk.js",
+    "main.js.map": "/learn-english-with-friends/static/js/main.1cbbe755.chunk.js.map",
     "runtime-main.js": "/learn-english-with-friends/static/js/runtime-main.ab7c01fc.js",
     "runtime-main.js.map": "/learn-english-with-friends/static/js/runtime-main.ab7c01fc.js.map",
-    "static/js/2.cfd97fa5.chunk.js": "/learn-english-with-friends/static/js/2.cfd97fa5.chunk.js",
-    "static/js/2.cfd97fa5.chunk.js.map": "/learn-english-with-friends/static/js/2.cfd97fa5.chunk.js.map",
+    "static/js/2.6c0fbe68.chunk.js": "/learn-english-with-friends/static/js/2.6c0fbe68.chunk.js",
+    "static/js/2.6c0fbe68.chunk.js.map": "/learn-english-with-friends/static/js/2.6c0fbe68.chunk.js.map",
     "index.html": "/learn-english-with-friends/index.html",
-    "static/css/main.e2ba2a74.chunk.css.map": "/learn-english-with-friends/static/css/main.e2ba2a74.chunk.css.map",
-    "static/js/2.cfd97fa5.chunk.js.LICENSE.txt": "/learn-english-with-friends/static/js/2.cfd97fa5.chunk.js.LICENSE.txt"
+    "static/css/main.d9fddf0f.chunk.css.map": "/learn-english-with-friends/static/css/main.d9fddf0f.chunk.css.map",
+    "static/js/2.6c0fbe68.chunk.js.LICENSE.txt": "/learn-english-with-friends/static/js/2.6c0fbe68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ab7c01fc.js",
-    "static/js/2.cfd97fa5.chunk.js",
-    "static/css/main.e2ba2a74.chunk.css",
-    "static/js/main.5ca6a8c6.chunk.js"
+    "static/js/2.6c0fbe68.chunk.js",
+    "static/css/main.d9fddf0f.chunk.css",
+    "static/js/main.1cbbe755.chunk.js"
   ]
 }
