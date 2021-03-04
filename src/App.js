@@ -13,7 +13,7 @@ function App() {
         <Sidebar/>
         <main className={styles.main}>
             <Switch>
-                <Route exact path="/learn" component={LearnContainer}/>
+                <Route exact path="/" component={LearnContainer}/>
                 <Route exact path="/select/seasons" component={SeasonsContainer}/>
                 <Route exact path="/select/seasons/episodes" component={EpisodesContainer}/>
                 <Route exact path="/statistics" component={StatisticsContainer}/>
